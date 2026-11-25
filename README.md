@@ -4,7 +4,7 @@ Predicting employee attrition using Logistic Regression, Decision Trees, and Ran
 
 The dataset used in this project is the ‘IBM HR Analytics Employee Attrition’ dataset available on Kaggle. It contains 1470 imaginative samples of Employees with 35 variables. 30 of these variables will be used as predictors to forecast Attrition.
 
-To analyze this dataset I performed the following steps:
+To analyze this dataset we performed the following steps:
 
 1. Removed unnecessary information from dataset.
 
